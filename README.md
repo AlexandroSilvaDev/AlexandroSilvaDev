@@ -12,6 +12,7 @@
 
 ### Back-end web developer:
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c%20sharp"/><img src="https://img.shields.io/badge/JAVA-red?style=for-the-badge"/><img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/ASP.NET-red?style=for-the-badge&logo=.net"/>
 <img src="https://img.shields.io/badge/SQL%20SERVER-blue?style=for-the-badge"/><img src="https://img.shields.io/badge/Mysql-black?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 ## 📱 Social media
