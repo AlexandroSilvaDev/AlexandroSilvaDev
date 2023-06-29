@@ -2,7 +2,7 @@
 
 👩‍💻 Front-End Web Developer at <a href="https://www.fumec.br" target="_blank">extension project (Banco de Alimentos) at FUMEC University</a>; <br>
 🧑‍🎓 Computer Science Student at <a href="https://www.fumec.br" target="_blank">FUMEC University</a>; <br>
-💻 Front-end web developer in development.
+💻 fullstack web developer in development.
 
 ## 🖥️ Technologies in development
 
